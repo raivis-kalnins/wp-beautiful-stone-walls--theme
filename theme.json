@@ -1,0 +1,25 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 3,
+  "settings": {
+    "appearanceTools": true,
+    "layout": {"contentSize": "800px", "wideSize": "1240px"},
+    "color": {"defaultPalette": false, "palette": [
+      {"slug": "forest", "color": "#36533b", "name": "Forest"},
+      {"slug": "stone", "color": "#f7f5ef", "name": "Warm stone"},
+      {"slug": "clay", "color": "#a75c37", "name": "Clay"},
+      {"slug": "ink", "color": "#26352b", "name": "Ink"},
+      {"slug": "white", "color": "#ffffff", "name": "White"}
+    ]},
+    "typography": {"fluid": true, "fontFamilies": [
+      {"slug": "body", "name": "System sans", "fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"},
+      {"slug": "display", "name": "Traditional serif", "fontFamily": "Georgia, 'Times New Roman', serif"}
+    ]},
+    "blocks": {"core/image": {"lightbox": {"enabled": false, "allowEditing": true}}}
+  },
+  "styles": {
+    "color": {"text": "#26352b", "background": "#ffffff"},
+    "typography": {"fontFamily": "var:preset|font-family|body", "fontSize": "18px", "lineHeight": "1.7"},
+    "elements": {"heading": {"typography": {"fontFamily": "var:preset|font-family|display", "fontWeight": "400", "lineHeight": "1.15"}}, "link": {"color": {"text": "#36533b"}}}
+  }
+}

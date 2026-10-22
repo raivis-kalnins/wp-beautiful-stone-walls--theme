@@ -1,0 +1,3 @@
+<?php defined( 'ABSPATH' ) || exit; get_header(); ?>
+<section class="section"><div class="container"><p class="eyebrow"><?php echo esc_html( bsw_t( 'Page not found' ) ); ?></p><h1><?php echo esc_html( bsw_t( 'Let\'s get you back on track.' ) ); ?></h1><p><?php echo esc_html( bsw_t( 'The page may have moved. Browse our stonework or get in touch about your project.' ) ); ?></p><div class="hero-actions"><a class="button button--primary" href="<?php echo esc_url( bsw_home_url() ); ?>"><?php echo esc_html( bsw_t( 'Back to home' ) ); ?></a><a class="button button--secondary" href="<?php echo esc_url( bsw_page_url( 'our-work' ) ); ?>"><?php echo esc_html( bsw_t( 'Explore our work' ) ); ?></a></div></div></section>
+<?php get_footer(); ?>

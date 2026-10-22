@@ -1,0 +1,499 @@
+# Latvian translations for Beautiful Stone Walls.
+# Copyright (C) 2026 Beautiful Stone Walls
+# Distributed under the same license as the theme.
+
+msgid ""
+msgstr "Project-Id-Version: Beautiful Stone Walls 1.2.0\nReport-Msgid-Bugs-To: \nPOT-Creation-Date: 2026-10-22 13:00+0000\nPO-Revision-Date: 2026-10-22 13:00+0000\nLast-Translator: Beautiful Stone Walls\nLanguage-Team: Latvian\nLanguage: lv\nMIME-Version: 1.0\nContent-Type: text/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\nX-Domain: beautiful-stone-walls\n"
+
+msgid "%s by Beautiful Stone Walls"
+msgstr "Beautiful Stone Walls — %s"
+
+msgid "(opens in a new tab)"
+msgstr "(atveras jaunā cilnē)"
+
+msgid "A closer look"
+msgstr "Ieskatieties tuvāk"
+
+msgid "A natural focal point."
+msgstr "Dabisks telpas akcents."
+
+msgid "A password is set. Leave this field blank to keep it."
+msgstr "Parole ir iestatīta. Ja nevēlaties to mainīt, atstājiet lauku tukšu."
+
+msgid "A selection of our work."
+msgstr "Daži no mūsu darbiem."
+
+msgid "About us"
+msgstr "Par mums"
+
+msgid "Access could not be saved in this browser. Please try again."
+msgstr "Piekļuvi šajā pārlūkā neizdevās saglabāt. Lūdzu, mēģiniet vēlreiz."
+
+msgid "Administrator sign in"
+msgstr "Pieteikties kā administratoram"
+
+msgid "After"
+msgstr "Pēc"
+
+msgid "All photographs"
+msgstr "Visi attēli"
+
+msgid "All projects"
+msgstr "Visi projekti"
+
+msgid "All projects & photos"
+msgstr "Visi projekti un attēli"
+
+msgid "An entrance with presence."
+msgstr "Iespaidīga ieeja jūsu īpašumā."
+
+msgid "Back to home"
+msgstr "Uz sākumlapu"
+
+msgid "Beautiful Stone Walls home"
+msgstr "Beautiful Stone Walls sākumlapa"
+
+msgid "Beautiful Stone Walls — Stone Masonry Craftsmanship"
+msgstr "Beautiful Stone Walls — akmens mūrēšanas meistarība"
+
+msgid "Before"
+msgstr "Pirms"
+
+msgid "Before & after"
+msgstr "Pirms un pēc"
+
+msgid "Before enabling protection"
+msgstr "Pirms aizsardzības ieslēgšanas"
+
+msgid "Breadcrumb"
+msgstr "Lapas atrašanās vieta"
+
+msgid "Browse by the type of stonework you have in mind."
+msgstr "Izvēlieties jūs interesējošo akmens darbu veidu."
+
+msgid "Built around the detail."
+msgstr "Rūpīgi veidota katra detaļa."
+
+msgid "Call us"
+msgstr "Zvaniet mums"
+
+msgid "Care for existing stonework."
+msgstr "Rūpes par esošo akmens mūri."
+
+msgid "Carefully shaped stonework around a circular window"
+msgstr "Rūpīgi veidots akmens mūris ap apaļu logu"
+
+msgid "Changing the password or protection setting signs out visitors who previously unlocked the website."
+msgstr "Mainot paroli vai aizsardzības iestatījumu, iepriekš piešķirtā piekļuve apmeklētājiem tiks anulēta."
+
+msgid "Character in every course."
+msgstr "Savs raksturs katrā akmens rindā."
+
+msgid "Choose whether visitors need a password to view this website."
+msgstr "Izvēlieties, vai vietnes apskatei apmeklētājiem jāievada parole."
+
+msgid "Close photo viewer"
+msgstr "Aizvērt attēlu skatītāju"
+
+msgid "Completed stone garage façade with a red door"
+msgstr "Pabeigta garāžas akmens fasāde ar sarkaniem vārtiem"
+
+msgid "Contact"
+msgstr "Kontakti"
+
+msgid "Contact us"
+msgstr "Sazināties"
+
+msgid "Continue to website"
+msgstr "Atvērt vietni"
+
+msgid "Country — English"
+msgstr "Valsts — angļu valodā"
+
+msgid "Country — Latvian"
+msgstr "Valsts — latviešu valodā"
+
+msgid "Covering Munster."
+msgstr "Strādājam Munster reģionā."
+
+msgid "Craftsmanship in the details, from start to finish."
+msgstr "Meistarība katrā detaļā — no sākuma līdz beigām."
+
+msgid "Disable or bypass full-page caching for this website, then clear any existing hosting, cache-plugin and CDN caches."
+msgstr "Atspējojiet pilnu lapu saglabāšanu kešatmiņā vai iestatiet izņēmumu šai vietnei, pēc tam iztīriet hostinga, kešatmiņas spraudņa un CDN kešatmiņu."
+
+msgid "Discuss your project"
+msgstr "Pārrunāsim jūsu ieceri"
+
+msgid "Email us"
+msgstr "Rakstiet mums"
+
+msgid "Enter the website password to continue."
+msgstr "Lai turpinātu, ievadiet vietnes paroli."
+
+msgid "Every detail"
+msgstr "Katra detaļa"
+
+msgid "Explore"
+msgstr "Iepazīstiet mūs"
+
+msgid "Explore houses, gardens and traditional stone features."
+msgstr "Apskatiet māju, dārzu un tradicionālo akmens elementu projektus."
+
+msgid "Explore our projects."
+msgstr "Iepazīstiet mūsu projektus."
+
+msgid "Explore our work"
+msgstr "Apskatīt mūsu darbus"
+
+msgid "Filter photographs by type"
+msgstr "Atlasīt attēlus pēc darbu veida"
+
+msgid "Filter projects by type"
+msgstr "Atlasīt projektus pēc darbu veida"
+
+msgid "Find us"
+msgstr "Mūsu adrese"
+
+msgid "Find us on Facebook"
+msgstr "Sekojiet mums Facebook"
+
+msgid "Finished stone boundary wall beside a curved driveway"
+msgstr "Pabeigts akmens robežmūris pie izliekta piebraucamā ceļa"
+
+msgid "Fireplaces"
+msgstr "Kamīni"
+
+msgid "Footer links"
+msgstr "Kājenes saites"
+
+msgid "From a garden wall to a complete stone façade, tell us what you have in mind."
+msgstr "No dārza mūra līdz pilnai akmens fasādei — pastāstiet par savu ieceri."
+
+msgid "From the first course to the finishing detail."
+msgstr "No pirmās akmens rindas līdz pēdējai detaļai."
+
+msgid "From the people we've worked with."
+msgstr "Mūsu klientu pieredze."
+
+msgid "Garage exterior before its new stone façade"
+msgstr "Garāža pirms jaunās akmens fasādes izbūves"
+
+msgid "Garages"
+msgstr "Garāžas"
+
+msgid "Garden features"
+msgstr "Dārza elementi"
+
+msgid "Garden walls"
+msgstr "Dārza mūri"
+
+msgid "Get a quote"
+msgstr "Saņemt cenas piedāvājumu"
+
+msgid "Get in touch"
+msgstr "Sazinieties ar mums"
+
+msgid "Handcrafted bespoke stonework."
+msgstr "Individuāli veidoti akmens darbi."
+
+msgid "Handcrafted grey stone façade and chimney on a house"
+msgstr "Ar rokām veidota mājas pelēkā akmens fasāde un skurstenis"
+
+msgid "Have a project in mind?"
+msgstr "Vai jums ir kāda iecere?"
+
+msgid "Home"
+msgstr "Sākums"
+
+msgid "Houses & façades"
+msgstr "Mājas un fasādes"
+
+msgid "Houses & garages"
+msgstr "Mājas un garāžas"
+
+msgid "Kind words"
+msgstr "Klientu atsauksmes"
+
+msgid "Language"
+msgstr "Valoda"
+
+msgid "Leave blank to show the country for the current language."
+msgstr "Atstājiet tukšu, lai parādītu pašreizējās valodas valsti."
+
+msgid "Let's get you back on track."
+msgstr "Atradīsim jums vajadzīgo lapu."
+
+msgid "Let's talk stonework"
+msgstr "Pārrunāsim akmens darbus"
+
+msgid "Liscannor stone"
+msgstr "Liscannor akmens"
+
+msgid "Main navigation"
+msgstr "Galvenā izvēlne"
+
+msgid "Mallow, Co. Cork · Serving Munster"
+msgstr "Mallow, Korkas grāfiste · Munster reģionā"
+
+msgid "Menu"
+msgstr "Izvēlne"
+
+msgid "More about us"
+msgstr "Vairāk par mums"
+
+msgid "Natural stone. Lasting character."
+msgstr "Dabīgs akmens. Paliekošs raksturs."
+
+msgid "Next page"
+msgstr "Nākamā lapa"
+
+msgid "Next photo"
+msgstr "Nākamais attēls"
+
+msgid "Next project →"
+msgstr "Nākamais projekts →"
+
+msgid "No items found."
+msgstr "Nekas nav atrasts."
+
+msgid "Open in maps"
+msgstr "Atvērt kartē"
+
+msgid "Our portfolio"
+msgstr "Mūsu paveiktie darbi"
+
+msgid "Our stonework"
+msgstr "Mūsu akmens darbi"
+
+msgid "Our work"
+msgstr "Mūsu darbi"
+
+msgid "Page navigation"
+msgstr "Lapu navigācija"
+
+msgid "Page not found"
+msgstr "Lapa nav atrasta"
+
+msgid "Password protection"
+msgstr "Aizsardzība ar paroli"
+
+msgid "Photo viewer"
+msgstr "Attēlu skatītājs"
+
+msgid "Photographs shown: {shown} of {total} in {category}."
+msgstr "Attēli kategorijā «{category}»: {shown} no {total}."
+
+msgid "Photographs shown: {shown} of {total}."
+msgstr "Redzamie attēli: {shown} no {total}."
+
+msgid "Please email"
+msgstr "Lūdzu, rakstiet uz"
+
+msgid "Previous page"
+msgstr "Iepriekšējā lapa"
+
+msgid "Previous photo"
+msgstr "Iepriekšējais attēls"
+
+msgid "Private website"
+msgstr "Privāta vietne"
+
+msgid "Project navigation"
+msgstr "Navigācija starp projektiem"
+
+msgid "Project views, works in progress and finished details. Select any photo to see it in full."
+msgstr "Projektu skati, darbu gaita un gatavās detaļas. Izvēlieties attēlu, lai to apskatītu pilnā izmērā."
+
+msgid "Projects shown: {shown} of {total} in {category}."
+msgstr "Projekti kategorijā «{category}»: {shown} no {total}."
+
+msgid "Projects shown: {shown} of {total}."
+msgstr "Redzamie projekti: {shown} no {total}."
+
+msgid "Protection is off by default. Administrators keep access, and signed-in editors can continue using WordPress editing tools."
+msgstr "Pēc noklusējuma aizsardzība ir izslēgta. Administratori saglabā piekļuvi, un redaktori, kuri ir pieteikušies, var turpināt izmantot WordPress rediģēšanas rīkus."
+
+msgid "Read all testimonials"
+msgstr "Lasīt visas atsauksmes"
+
+msgid "Recommended stone"
+msgstr "Ieteiktie akmens materiāli"
+
+msgid "Request a quote."
+msgstr "Pieprasiet cenas piedāvājumu."
+
+msgid "Require a password to view this website"
+msgstr "Vietnes apskatei pieprasīt paroli"
+
+msgid "Restoration"
+msgstr "Atjaunošana"
+
+msgid "Save privacy settings"
+msgstr "Saglabāt privātuma iestatījumus"
+
+msgid "Search: %s"
+msgstr "Meklēšana: %s"
+
+msgid "See the difference stone makes."
+msgstr "Apskatiet, kā akmens pārveido vidi."
+
+msgid "Set a password before enabling protection."
+msgstr "Pirms aizsardzības ieslēgšanas iestatiet paroli."
+
+msgid "Shape your outdoor space."
+msgstr "Veidojiet savu ārtelpu."
+
+msgid "Share a few details and we'll get back to you."
+msgstr "Pastāstiet nedaudz par savu ieceri, un mēs ar jums sazināsimies."
+
+msgid "Show more photos"
+msgstr "Rādīt vairāk attēlu"
+
+msgid "Show more projects"
+msgstr "Rādīt vairāk projektu"
+
+msgid "Site Privacy"
+msgstr "Vietnes privātums"
+
+msgid "Site privacy settings saved."
+msgstr "Vietnes privātuma iestatījumi ir saglabāti."
+
+msgid "Skip to content"
+msgstr "Pāriet uz saturu"
+
+msgid "Spaces at the beginning and end are ignored. The saved password is never displayed."
+msgstr "Atstarpes paroles sākumā un beigās netiek ņemtas vērā. Saglabātā parole netiek rādīta."
+
+msgid "Start a conversation"
+msgstr "Sāksim sarunu"
+
+msgid "Stone Walls · Contact & homepage"
+msgstr "Stone Walls · Kontakti un sākumlapa"
+
+msgid "Stone boundary wall before restoration"
+msgstr "Akmens robežmūris pirms atjaunošanas"
+
+msgid "Stone garage façade"
+msgstr "Garāžas akmens fasāde"
+
+msgid "Stone houses"
+msgstr "Māju akmens apdare"
+
+msgid "Stone houses, garden walls, fireplaces and features. Shaped with care, built to belong."
+msgstr "Māju akmens apdare, dārza mūri, kamīni un akmens elementi. Rūpīgi veidoti, lai iederētos savā vidē."
+
+msgid "Stone masonry craftsmanship"
+msgstr "Akmens mūrēšanas meistarība"
+
+msgid "Stone masonry craftsmanship · Mallow, Ireland"
+msgstr "Akmens mūrēšanas meistarība · Mallow, Īrija"
+
+msgid "Stone masonry project photograph"
+msgstr "Akmens darbu projekta fotogrāfija"
+
+msgid "Stone pillars"
+msgstr "Akmens stabi"
+
+msgid "Stone-clad house façade with carefully finished window surrounds"
+msgstr "Mājas fasāde ar akmens apdari un rūpīgi veidotiem logu ietvariem"
+
+msgid "Stonework"
+msgstr "Akmens darbi"
+
+msgid "Stonework for every setting."
+msgstr "Akmens darbi ikvienai videi."
+
+msgid "Tell us about your project"
+msgstr "Pastāstiet par savu ieceri"
+
+msgid "Testimonials"
+msgstr "Atsauksmes"
+
+msgid "That password is not correct. Please try again."
+msgstr "Parole nav pareiza. Lūdzu, mēģiniet vēlreiz."
+
+msgid "That password is not valid or is too long. Please enter a shorter password."
+msgstr "Parole nav derīga vai ir pārāk gara. Lūdzu, ievadiet īsāku paroli."
+
+msgid "The complete photo gallery."
+msgstr "Pilnā attēlu galerija."
+
+msgid "The page may have moved. Browse our stonework or get in touch about your project."
+msgstr "Iespējams, lapa ir pārvietota. Apskatiet mūsu akmens darbus vai sazinieties ar mums par savu ieceri."
+
+msgid "The transformation"
+msgstr "Pārvērtības"
+
+msgid "These settings survive theme updates. Protection works only while this theme is active."
+msgstr "Šie iestatījumi saglabājas pēc tēmas atjaunināšanas. Aizsardzība darbojas tikai tad, kad šī tēma ir aktīva."
+
+msgid "This browser will stay unlocked for 7 days, unless the password or protection setting changes."
+msgstr "Šajā pārlūkā piekļuve saglabāsies 7 dienas, ja netiks mainīta parole vai aizsardzības iestatījums."
+
+msgid "This photograph could not be loaded. Please try the next image or close the gallery and try again."
+msgstr "Šo attēlu neizdevās ielādēt. Izvēlieties nākamo attēlu vai aizveriet galeriju un mēģiniet vēlreiz."
+
+msgid "This theme protects pages handled by WordPress. Direct media and file URLs, and copies already served by a hosting or CDN cache, may remain accessible. Use hosting-level protection if those files must also be private."
+msgstr "Šī tēma aizsargā lapas, ko apstrādā WordPress. Tiešās saites uz multivides un citiem failiem, kā arī hostinga vai CDN kešatmiņā saglabātās kopijas var palikt pieejamas. Ja arī šiem failiem jābūt privātiem, izmantojiet aizsardzību hostinga līmenī."
+
+msgid "This website is private."
+msgstr "Šī vietne ir privāta."
+
+msgid "This website is private. Enter its password on the website to continue."
+msgstr "Šī vietne ir privāta. Lai turpinātu, ievadiet tās paroli vietnes piekļuves lapā."
+
+msgid "Too many attempts. Please try again later."
+msgstr "Pārāk daudz mēģinājumu. Lūdzu, mēģiniet vēlreiz vēlāk."
+
+msgid "Traditional craft. Thoughtfully finished."
+msgstr "Tradicionāls amats. Rūpīgs izpildījums."
+
+msgid "Traditional stone masonry ·"
+msgstr "Tradicionālā akmens mūrēšana ·"
+
+msgid "Traditional stone masonry, thoughtful detailing and a personal approach to every project."
+msgstr "Tradicionāla akmens mūrēšana, rūpīgi veidotas detaļas un individuāla pieeja katram projektam."
+
+msgid "View all stonework"
+msgstr "Apskatīt visus akmens darbus"
+
+msgid "View more photographs"
+msgstr "Apskatīt vairāk attēlu"
+
+msgid "View more projects"
+msgstr "Apskatīt vairāk projektu"
+
+msgid "View the full photo gallery"
+msgstr "Atvērt pilno attēlu galeriju"
+
+msgid "Wall restoration"
+msgstr "Mūra atjaunošana"
+
+msgid "Website password"
+msgstr "Vietnes parole"
+
+msgid "What we do"
+msgstr "Mūsu pakalpojumi"
+
+msgid "You do not have permission to change site privacy settings."
+msgstr "Jums nav tiesību mainīt vietnes privātuma iestatījumus."
+
+msgid "Your privacy settings could not be saved. Please try again."
+msgstr "Privātuma iestatījumus neizdevās saglabāt. Lūdzu, mēģiniet vēlreiz."
+
+msgid "Your session has expired. Refresh this page and try again."
+msgstr "Sesijas derīguma termiņš ir beidzies. Atsvaidziniet lapu un mēģiniet vēlreiz."
+
+msgid "or call"
+msgstr "vai zvaniet"
+
+msgid "to discuss your project."
+msgstr "lai pārrunātu savu ieceri."
+
+msgid "{current} / {total}"
+msgstr "{current} / {total}"
+
+msgid "← Previous project"
+msgstr "← Iepriekšējais projekts"
+

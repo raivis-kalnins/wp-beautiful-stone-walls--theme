@@ -1,0 +1,8 @@
+<?php defined( 'ABSPATH' ) || exit; get_header(); ?>
+<?php while ( have_posts() ) : the_post(); bsw_heading( 'Our portfolio' ); ?>
+<section class="section" aria-labelledby="projects-title"><div class="container">
+    <div class="section-heading"><div class="section-heading-copy"><h2 id="projects-title"><?php echo esc_html( bsw_t( 'Explore our projects.' ) ); ?></h2><p><?php echo esc_html( bsw_t( 'Browse by the type of stonework you have in mind.' ) ); ?></p></div><a class="text-link" href="#photo-gallery"><?php echo esc_html( bsw_t( 'View the full photo gallery' ) ); ?> <?php echo bsw_icon(); ?></a></div>
+    <div class="gallery-panel" data-bsw-filter data-bsw-kind="projects"><?php bsw_project_grid(); ?><p class="gallery-status" aria-live="polite"></p><button class="button button--secondary gallery-more" type="button" hidden><?php echo esc_html( bsw_t( 'Show more projects' ) ); ?></button></div>
+</div></section>
+<section class="section section--cream" id="photo-gallery" aria-labelledby="photos-title"><div class="container"><div class="section-heading"><div class="section-heading-copy"><p class="eyebrow"><?php echo esc_html( bsw_t( 'Every detail' ) ); ?></p><h2 id="photos-title"><?php echo esc_html( bsw_t( 'The complete photo gallery.' ) ); ?></h2><p><?php echo esc_html( bsw_t( 'Project views, works in progress and finished details. Select any photo to see it in full.' ) ); ?></p></div></div><div class="gallery-panel entry-content" data-bsw-filter data-bsw-kind="photos"><?php the_content(); ?><p class="gallery-status" aria-live="polite"></p><button class="button button--secondary gallery-more" type="button" hidden><?php echo esc_html( bsw_t( 'Show more photos' ) ); ?></button></div></div></section>
+<?php endwhile; bsw_cta(); get_footer(); ?>
